@@ -1,15 +1,18 @@
 # Javascript Full Stack
-is a simple chat that was built with entire javascript technologies, for the frontend, backend and database. 
+Simple chat de JavaScript con tecnologias como NodeJS, SocketIO y MongoDb.
+Podrás entrar a la sala de chat y asi poder mandar mensajes a todo el grupo que esta en el, pero si quieres mandar un mensaje privado tendras que poner el siguiente comando /w seguido del nombre de usuario y despues el mensaje que quieras mandarle en privado.
+Ejemplo:
+/w ricardo Nos podemos ver a las 7pm para platicar
 
 ![](docs/screenshot.png)
 
-# Used Technologies
+# Tecnologías usadas
 - Nodejs
   - Express
   - Socket.io
 - Mongodb
 
-# Links and Resources used in this project
+# Links utilizados en este proyecto.
 - [Bootstrap4 CDN](http://getbootstrap.com/docs/4.0/getting-started/introduction/)
 - [Background Gradient Color](https://uigradients.com/#Lawrencium)
 - [jQuery CDN](https://code.jquery.com/)
